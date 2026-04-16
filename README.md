@@ -79,5 +79,6 @@ No credit card required.
 
 For purchasing, licensing questions, or custom volume inquiries:
 
-**hello@clinicaltrainingdata.com**
-**[clinicaltrainingdata.com](https://cl
+**Email:** hello@clinicaltrainingdata.com
+
+**Website:** https://clinicaltrainingdata.com
